@@ -1,0 +1,24 @@
+stage1:
+rationalRank =929.125
+hopefulRank =961.6
+cheerfulRank =970.159375
+angerRank =293.95
+panicRank =453.6040625
+stage2:
+rationalRank =2596.5
+hopefulRank =1650.0275
+cheerfulRank =2013.20625
+angerRank =970.0399999999997
+panicRank =2243.310937499999
+stage3:
+rationalRank =484.4765625
+hopefulRank =310.5
+cheerfulRank =313.625
+angerRank =154.0
+panicRank =421.00000000000006
+stage4:
+rationalRank =8083.077500000004
+hopefulRank =6433.888281250001
+cheerfulRank =6091.883535156251
+angerRank =1179.4250000000002
+panicRank =5615.076076965336
